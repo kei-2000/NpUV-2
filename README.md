@@ -4,6 +4,8 @@ this repository is test
 - fastp (URL:https://github.com/OpenGene/fastp)  
 - samtools (URL:https://github.com/samtools/)  
 - elprep (URL:https://github.com/ExaScience/elprep)  
+- bwa (URL:https://github.com/lh3/bwa)
+- 
 
 # usage  
 # citation  
