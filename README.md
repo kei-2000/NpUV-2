@@ -1,6 +1,6 @@
 # description  
-this repository is test　　　　
-#dependency  
+this repository is test　　
+#　dependency  
 - fastp (URL:https://github.com/OpenGene/fastp)  
 - samtools (URL:https://github.com/samtools/)  
 - elprep (URL:https://github.com/ExaScience/elprep)  
